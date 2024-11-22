@@ -27,6 +27,9 @@ Este es un programa desarrollado con **Ruby on Rails** que permite registrar inf
 ### Menú Principal
 ![Vista de Registro](2.PNG)
 
-### Formulario
+### Ejemplo de los Formularios
+![Vista de Registro](3.PNG)
+
+### Ejemplo de los Formularios
 ![Vista de Registro](33.PNG)
 
