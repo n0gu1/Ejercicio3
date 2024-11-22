@@ -15,6 +15,10 @@ Este es un programa desarrollado con **Ruby on Rails** que permite registrar inf
 - Botón "Regresar a Inicio" accesible desde todas las vistas (excepto en la página principal).
 ---
 
+## Link del proyecto en Drive
+- puse un link del ejercicio en un txt, ya que me dio problemas al subirlo a github 
+---
+
 ## Script de Base de Datos
 - Se incluye el script de la base de datos, hecho en mysql, llamado 3fn.sql
 ---
