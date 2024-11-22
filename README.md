@@ -13,6 +13,4 @@ Este es un programa desarrollado con **Ruby on Rails** que permite registrar inf
 - Registro de **Partidos**.
 - Menú principal con botones de navegación para acceder a cada módulo.
 - Botón "Regresar a Inicio" accesible desde todas las vistas (excepto en la página principal).
-- Diseño responsivo y moderno utilizando **CSS puro**.
-
 ---
