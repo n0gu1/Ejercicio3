@@ -22,8 +22,8 @@ Este es un programa desarrollado con **Ruby on Rails** que permite registrar inf
 ## Capturas de Pantalla
 
 ### Menú Principal
-![Menú Principal](assets/menu-principal.png)
+![Menú Principal](1.PNG)
 
 ### Vista de Registro
-![Vista de Registro](assets/vista-registro.png)
+![Vista de Registro](2.PNG)
 
