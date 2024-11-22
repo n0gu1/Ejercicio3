@@ -18,3 +18,12 @@ Este es un programa desarrollado con **Ruby on Rails** que permite registrar inf
 ## Script de Base de Datos
 - Se incluye el script de la base de datos, hecho en mysql, llamado 3fn.sql
 ---
+
+## Capturas de Pantalla
+
+### Menú Principal
+![Menú Principal](assets/menu-principal.png)
+
+### Vista de Registro
+![Vista de Registro](assets/vista-registro.png)
+
